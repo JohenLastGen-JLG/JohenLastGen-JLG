@@ -20,18 +20,16 @@
 ---
 
 # 👤 About Me
+Security Researcher passionate about uncovering security flaws,
+building offensive security tools, and automating security workflows.
 
-Security Researcher dedicated to exploring modern web technologies,
-analyzing vulnerabilities, and developing practical security tools.
-
-Focused on offensive security, automation, and responsible security
-research with the goal of understanding systems beyond their surface.
-
+Primarily focused on web application security, vulnerability research,
+and continuous exploration of modern technologies.
 > **"Understand the system. Discover the weakness. Improve the security."**
 
 ---
 
-# 🧠 Knowledge & Technologies
+# **Knowledge & Technologies**
 
 <p align="center">
 
