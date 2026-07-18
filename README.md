@@ -1,72 +1,81 @@
-# 👋 Hi, I'm JohenLastGen
+<div align="center">
+
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=JOHENLASTGEN;Security+Researcher;Offensive+Security;Go+Developer" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=JohenLastGen-JLG&style=for-the-badge&color=00ff99"/>
+
+</div>
 
 ```bash
-┌──(johen㉿shadow)-[~/research]
-└─$ whoami
+┌──(johen㉿exec)-[~/research]
+└─$ whoami --verbose
 
-Role     : Security Researcher
-Focus    : Web Application Security
-Stack    : Go • Python • Linux
-Founder  : JLG Network
+> alias      : JohenLastGen
+> role       : Security Researcher
+> focus      : Web Application Security
+> specialty  : Vulnerability Research & Automation
+> founder    : JLG Network
 ```
 
 ---
 
-## 👤 About Me
+# 👤 About Me
 
-Security Researcher with a focus on Web Application Security,
-Vulnerability Research, and Security Automation.
+Security Researcher focused on discovering, understanding, and analyzing
+security vulnerabilities across modern web technologies.
 
-I enjoy exploring modern web technologies, building security tools,
-and researching vulnerabilities to better understand how systems work.
+Passionate about building automation tools, researching web applications,
+and improving security through responsible analysis and continuous learning.
 
-Founder of **JLG Network**.
+> *"Every system has a story—security begins by understanding how it's written."*
 
 ---
 
-## 🧠 Knowledge & Technologies
+# 🧠 Knowledge & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/Golang-111111?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
-</p>
+<p align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=go,python,c,java,php,bash,javascript"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nuclei-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WPScan-111111?style=for-the-badge">
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=orange">
+<img src="https://img.shields.io/badge/Nuclei-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/WPScan-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/httpx-111111?style=for-the-badge">
+
 </p>
 
 ---
 
-## 🎯 Interests
+# 🎯 Interests
 
-- Web Application Security
-- Vulnerability Research
-- Reverse Engineering
-- Exploit Development
-- Security Automation
-- Open Source
-
----
-
-## 📫 Connect
-
-- GitHub: **JohenLastGen**
-- Organization: **JLG Network**
+- 🌐 Web Application Security
+- 🔍 Vulnerability Research
+- ⚙️ Security Automation
+- 💥 Exploit Development
+- 🧩 Reverse Engineering
+- 🛠 Open Source Projects
 
 ---
 
-> *"Security is built through understanding, not assumptions."*
+# 📫 Connect
+
+- **GitHub:** https://github.com/JohenLastGen-JLG
+- **Legacy Account:** JohenLastGen *(Suspended)*
+- **Organization:** JLG Network
+- **Telegram:** https://t.me/jlgnetworkredirect
+- **Email:** johenlast@gmail.com
+
+---
+
+<div align="center">
+
+### *"Research. Automate. Secure."*
+
+</div>
