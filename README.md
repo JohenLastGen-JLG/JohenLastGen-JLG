@@ -19,7 +19,7 @@
 
 ---
 
-# 👤 About Me
+# [+] About Me
 Security Researcher passionate about uncovering security flaws,
 building offensive security tools, and automating security workflows.
 
@@ -43,14 +43,13 @@ and continuous exploration of modern technologies.
 
 ---
 
-# ⚡ Arsenal
+# [+] Arsenal
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Burp%20Suite-ff6b35?style=for-the-badge&logo=burpsuite&logoColor=white">
 <img src="https://img.shields.io/badge/Nuclei-2D6CDF?style=for-the-badge">
 <img src="https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/httpx-3C78D8?style=for-the-badge">
 <img src="https://img.shields.io/badge/Subfinder-1F6FEB?style=for-the-badge">
 <img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge">
 <img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge">
@@ -63,7 +62,7 @@ and continuous exploration of modern technologies.
 
 ---
 
-# 📡 Channels
+# [+] Channels
 
 <p align="center">
 
