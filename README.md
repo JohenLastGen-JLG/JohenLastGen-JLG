@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=JOHENLASTGEN;Security+Researcher;Offensive+Security;Go+Developer" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=JOHENLASTGEN;Security+Researcher;Offensive+Security;Vulnerability+Researcher;Founder+of+JLG+Network"/>
 
 <img src="https://komarev.com/ghpvc/?username=JohenLastGen-JLG&style=for-the-badge&color=00ff99"/>
 
@@ -13,7 +13,7 @@
 > alias      : JohenLastGen
 > role       : Security Researcher
 > focus      : Web Application Security
-> specialty  : Vulnerability Research & Automation
+> specialty  : Vulnerability Research
 > founder    : JLG Network
 ```
 
@@ -21,13 +21,13 @@
 
 # 👤 About Me
 
-Security Researcher focused on discovering, understanding, and analyzing
-security vulnerabilities across modern web technologies.
+Security Researcher dedicated to exploring modern web technologies,
+analyzing vulnerabilities, and developing practical security tools.
 
-Passionate about building automation tools, researching web applications,
-and improving security through responsible analysis and continuous learning.
+Focused on offensive security, automation, and responsible security
+research with the goal of understanding systems beyond their surface.
 
-> *"Every system has a story—security begins by understanding how it's written."*
+> **"Understand the system. Discover the weakness. Improve the security."**
 
 ---
 
@@ -35,46 +35,62 @@ and improving security through responsible analysis and continuous learning.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,c,java,php,bash,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,php,bash,go,javascript"/>
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,vscode"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=orange">
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/WPScan-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tor-111111?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=ubuntu,kali,linux,git,vscode,vim,mysql,postgres"/>
 
 </p>
 
 ---
 
-# 🎯 Interests
+# ⚡ Arsenal
 
-- 🌐 Web Application Security
-- 🔍 Vulnerability Research
-- ⚙️ Security Automation
-- 💥 Exploit Development
-- 🧩 Reverse Engineering
-- 🛠 Open Source Projects
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp%20Suite-ff6b35?style=for-the-badge&logo=burpsuite&logoColor=white">
+<img src="https://img.shields.io/badge/Nuclei-2D6CDF?style=for-the-badge">
+<img src="https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/httpx-3C78D8?style=for-the-badge">
+<img src="https://img.shields.io/badge/Subfinder-1F6FEB?style=for-the-badge">
+<img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ghidra-B22222?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-1679C5?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white">
+
+</p>
 
 ---
 
-# 📫 Connect
+# 📡 Channels
 
-- **GitHub:** https://github.com/JohenLastGen-JLG
-- **Legacy Account:** JohenLastGen *(Suspended)*
-- **Organization:** JLG Network
-- **Telegram:** https://t.me/jlgnetworkredirect
-- **Email:** johenlast@gmail.com
+<p align="center">
+
+<a href="https://t.me/johenlastgen">
+<img src="https://img.shields.io/badge/Telegram-@JOHENLASTGEN-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="mailto:johenlast@gmail.com">
+<img src="https://img.shields.io/badge/Email-JOHENLAST@GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/JohenLastGen-JLG">
+<img src="https://img.shields.io/badge/GitHub-JOHENLASTGEN--JLG-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/JohenLastGen">
+<img src="https://img.shields.io/badge/Legacy-JOHENLASTGEN_(SUSPENDED)-555555?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### *"Research. Automate. Secure."*
+### *Research • Analyze • Build • Secure*
 
 </div>
