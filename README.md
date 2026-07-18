@@ -44,10 +44,9 @@ and improving security through responsible analysis and continuous learning.
 <br><br>
 
 <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=orange">
-<img src="https://img.shields.io/badge/Nuclei-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge">
 <img src="https://img.shields.io/badge/WPScan-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/httpx-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tor-111111?style=for-the-badge">
 
 </p>
 
