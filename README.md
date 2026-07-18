@@ -1,133 +1,72 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&vCenter=true&width=435&lines=JOHENLASTGEN;Security+Researcher;Offensive+Security;Exploit+Developer" />
+# 👋 Hi, I'm JohenLastGen
 
 ```bash
-┌──(johen㉿shadow)─[~/research]
-└─$ whoami --verbose
+┌──(johen㉿shadow)-[~/research]
+└─$ whoami
 
-> alias      : JohenLastGen
-> role       : Security Researcher
-> focus      : Offensive Security • Vulnerability Research
-> specialty  : WordPress • Joomla • Laravel
-> languages  : Go • Python • Bash
-> motto      : "Break to understand. Learn to secure."
+Role     : Security Researcher
+Focus    : Web Application Security
+Stack    : Go • Python • Linux
+Founder  : JLG Network
 ```
 
 ---
 
-# 🕶 About Me
+## 👤 About Me
 
-I spend my time understanding how systems fail before attackers do.
+Security Researcher with a focus on Web Application Security,
+Vulnerability Research, and Security Automation.
 
-My work focuses on vulnerability research, exploit development,
-automation, and offensive security tooling.
+I enjoy exploring modern web technologies, building security tools,
+and researching vulnerabilities to better understand how systems work.
 
-I enjoy reversing applications, analyzing web technologies,
-and discovering security weaknesses through ethical research.
-
----
-
-## ⚡ Focus
-
-- 🔥 Web Application Security
-- 🧩 Vulnerability Research
-- 🐞 CVE Analysis
-- ⚙️ Exploit Development
-- 🕸 WordPress Security
-- 📦 Joomla Security
-- 🚀 Automation (Go & Python)
-- 🔍 Reverse Engineering
+Founder of **JLG Network**.
 
 ---
 
-## 🛠 Arsenal
+## 🧠 Knowledge & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,python,bash,cpp,c,php,java,javascript,linux,docker,git,vscode"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Golang-111111?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
-### Security Tools
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
+</p>
 
-- Burp Suite
-- Nuclei
-- WPScan
-- httpx
-- subfinder
-- katana
-- ffuf
-- sqlmap
-- Ghidra
-- Metasploit
-- Wireshark
-- Nmap
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nuclei-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WPScan-111111?style=for-the-badge">
 </p>
 
 ---
 
-## 🔬 Current Interests
+## 🎯 Interests
 
-```
-✔ WordPress Security
-✔ Joomla Research
-✔ CVE Hunting
-✔ Reverse Engineering
-✔ Go Automation
-✔ Linux Internals
-✔ Offensive Security
-```
+- Web Application Security
+- Vulnerability Research
+- Reverse Engineering
+- Exploit Development
+- Security Automation
+- Open Source
 
 ---
 
-## 🛰 Research Workflow
+## 📫 Connect
 
-```
-Recon
-   │
-   ▼
-Enumeration
-   │
-   ▼
-Source Review
-   │
-   ▼
-Vulnerability Discovery
-   │
-   ▼
-PoC Development
-   │
-   ▼
-Responsible Disclosure
-```
+- GitHub: **JohenLastGen**
+- Organization: **JLG Network**
 
 ---
 
-## 📡 Connect
-
-- GitHub
-- X / Twitter
-- LinkedIn
-- Discord
-
----
-
-## ⚠ Responsible Research
-
-> All research is performed in controlled environments or
-> with proper authorization.
-
-Responsible disclosure is preferred whenever vulnerabilities
-are discovered.
-
----
-
-> "Every vulnerability is a lesson waiting to be understood."
+> *"Security is built through understanding, not assumptions."*
